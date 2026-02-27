@@ -1,2 +1,0 @@
-# Star-Blasting
-game
